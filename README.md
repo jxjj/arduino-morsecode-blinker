@@ -6,7 +6,7 @@ This is a first experiment with [Arduino](https://www.arduino.cc/) and [Johnny F
 
 ## USAGE
 
-![CLI View](./img/hello-world-demo.png)
+![CLI View](./img/hello-world-demo.gif)
 
 ## SETUP
 
